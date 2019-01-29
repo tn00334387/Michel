@@ -1,0 +1,137 @@
+
+
+
+=========================================Good and Bad One model (W1) End-Server============================================
+
+
+=========================================Good and Bad One model (W1) All-Server============================================
+
+
+=========================================Good and Bad Three model (W2) End-Server============================================
+
+
+asrserver01@titan-xp:~/ML_FrameWork/DDNN/ddnn_end/implement_code/cifar10/develop/exp$ Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Start time is 2018-04-18 19:30:07.784086 End time is 2018-04-18 19:34:36.816395 , All time is 269.032203913
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:30:07.778295 End time is 2018-04-18 19:34:37.606630 , All time is 269.828295946
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:30:07.776366 End time is 2018-04-18 19:34:47.409189 , All time is 279.632769108
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:30:07.793918 End time is 2018-04-18 19:34:51.758042 , All time is 283.96399498
+Inference the model from load Over !
+Start time is 2018-04-18 19:30:07.780233 End time is 2018-04-18 19:34:52.085581 , All time is 284.305308104
+Inference the model from load Over !
+Start time is 2018-04-18 19:30:07.779927 End time is 2018-04-18 19:34:53.150809 , All time is 285.370842934
+Inference the model from load Over !
+
+
+
+
+
+=========================================Good and Bad Three model (W2) All-Server============================================
+
+
+
+
+asrserver01@titan-xp:~/ML_FrameWork/DDNN/ddnn_end/implement_code/cifar10/develop/exp$ Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the bad model from load Start !
+[Bad] Start time is 2018-04-18 19:27:19.730546 End time is 2018-04-18 19:28:35.143563 , All time is 75.4129290581
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:27:19.729395 End time is 2018-04-18 19:28:35.200752 , All time is 75.4712469578
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:27:19.719273 End time is 2018-04-18 19:28:35.296574 , All time is 75.5771741867
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:27:19.721849 End time is 2018-04-18 19:28:36.396023 , All time is 76.6740760803
+Inference the model from load Over !
+Start time is 2018-04-18 19:27:19.733964 End time is 2018-04-18 19:28:37.217418 , All time is 77.483342886
+Inference the model from load Over !
+Start time is 2018-04-18 19:27:19.722622 End time is 2018-04-18 19:28:38.000770 , All time is 78.2780840397
+Inference the model from load Over !
+
+
+
+
+
+
+=========================================Good and Bad Five model (W3) End-Server============================================
+
+
+asrserver01@titan-xp:~/ML_FrameWork/DDNN/ddnn_end/implement_code/cifar10/develop/exp$ Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the bad model from load Start !
+Start time is 2018-04-18 19:01:44.816477 End time is 2018-04-18 19:06:16.187548 , All time is 271.370979071
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:01:44.825708 End time is 2018-04-18 19:06:18.449600 , All time is 273.62383008
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:01:44.819167 End time is 2018-04-18 19:06:21.902301 , All time is 277.083091021
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:01:44.818452 End time is 2018-04-18 19:06:25.525686 , All time is 280.707182169
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:01:44.821252 End time is 2018-04-18 19:06:28.949839 , All time is 284.128528833
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:01:44.826674 End time is 2018-04-18 19:06:32.933184 , All time is 288.106433868
+Inference the model from load Over !
+Start time is 2018-04-18 19:01:44.837111 End time is 2018-04-18 19:06:33.347775 , All time is 288.510525227
+Inference the model from load Over !
+Start time is 2018-04-18 19:01:44.820099 End time is 2018-04-18 19:06:36.960351 , All time is 292.140169144
+Inference the model from load Over !
+Start time is 2018-04-18 19:01:44.820300 End time is 2018-04-18 19:06:41.861431 , All time is 297.041079998
+Inference the model from load Over !
+Start time is 2018-04-18 19:01:44.837417 End time is 2018-04-18 19:06:47.034736 , All time is 302.197182894
+Inference the model from load Over !
+
+
+
+
+
+
+=========================================Good and Bad Five model (W3) All-Server============================================
+
+
+asrserver01@titan-xp:~/ML_FrameWork/DDNN/ddnn_end/implement_code/cifar10/develop/exp$ Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Inference the bad model from load Start !
+Inference the bad model from load Start !
+Inference the model from load Start !
+Inference the model from load Start !
+Start time is 2018-04-18 19:11:39.712425 End time is 2018-04-18 19:13:41.998618 , All time is 122.286118031
+Inference the model from load Over !
+[Bad] Start time is 2018-04-18 19:11:39.733121 End time is 2018-04-18 19:13:42.039140 , All time is 122.305927038
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:11:39.714655 End time is 2018-04-18 19:13:42.040149 , All time is 122.325384855
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:11:39.718753 End time is 2018-04-18 19:13:42.054344 , All time is 122.335536003
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:11:39.704625 End time is 2018-04-18 19:13:42.070788 , All time is 122.365959883
+Inference the bad model from load Over !
+[Bad] Start time is 2018-04-18 19:11:39.720561 End time is 2018-04-18 19:13:42.175207 , All time is 122.454572916
+Inference the bad model from load Over !
+Start time is 2018-04-18 19:11:39.714705 End time is 2018-04-18 19:13:42.248993 , All time is 122.534093142
+Inference the model from load Over !
+Start time is 2018-04-18 19:11:39.738083 End time is 2018-04-18 19:13:42.344396 , All time is 122.606206894
+Inference the model from load Over !
+Start time is 2018-04-18 19:11:39.718400 End time is 2018-04-18 19:13:42.386818 , All time is 122.668330193
+Inference the model from load Over !
+Start time is 2018-04-18 19:11:39.731218 End time is 2018-04-18 19:13:42.397654 , All time is 122.666334867
+Inference the model from load Over !
+

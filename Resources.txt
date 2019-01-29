@@ -1,0 +1,5 @@
+Thoughts for DDNN Virtualization Server:
+https://docs.google.com/document/d/1gYXJi8NAFHowWU0vPUPlP7ZLNKMLjGo0m5CETK3sbqM/edit?usp=sharing
+
+Deep Learning Model Convertors
+https://github.com/ysh329/deep-learning-model-convertor

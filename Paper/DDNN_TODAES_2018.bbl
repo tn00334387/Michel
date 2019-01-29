@@ -1,0 +1,635 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{41}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Abadi, Barham, Chen, Chen, Davis, Dean, Devin,
+  Ghemawat, Irving, Isard, et~al\mbox{.}}{Abadi et~al\mbox{.}}{2016}]%
+        {tensorflow16}
+\bibfield{author}{\bibinfo{person}{Mart{\'\i}n Abadi}, \bibinfo{person}{Paul
+  Barham}, \bibinfo{person}{Jianmin Chen}, \bibinfo{person}{Zhifeng Chen},
+  \bibinfo{person}{Andy Davis}, \bibinfo{person}{Jeffrey Dean},
+  \bibinfo{person}{Matthieu Devin}, \bibinfo{person}{Sanjay Ghemawat},
+  \bibinfo{person}{Geoffrey Irving}, \bibinfo{person}{Michael Isard},
+  {et~al\mbox{.}}} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{{TensorFlow}: A System for Large-Scale Machine
+  Learning}. In \bibinfo{booktitle}{\emph{Proceedings of the 12th USENIX
+  Symposium on Operating Systems Design and Implementation}}.
+  \bibinfo{pages}{265--283}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Akiba, Fukuda, and Suzuki}{Akiba
+  et~al\mbox{.}}{2017}]%
+        {akiba2017chainermn}
+\bibfield{author}{\bibinfo{person}{Takuya Akiba}, \bibinfo{person}{Keisuke
+  Fukuda}, {and} \bibinfo{person}{Shuji Suzuki}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{ChainerMN: Scalable distributed deep learning
+  framework}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1710.11351}}
+  (\bibinfo{year}{2017}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1710.11351}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Amroun, Temkit, and Ammi}{Amroun
+  et~al\mbox{.}}{2017}]%
+        {Amroun2017}
+\bibfield{author}{\bibinfo{person}{H. Amroun}, \bibinfo{person}{M.~H. Temkit},
+  {and} \bibinfo{person}{M. Ammi}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{DNN-based approach for identification of the level
+  of attention of the TV-viewers using IoT network}. In
+  \bibinfo{booktitle}{\emph{2017 IEEE SmartWorld, Ubiquitous Intelligence
+  Computing, Advanced Trusted Computed, Scalable Computing Communications,
+  Cloud Big Data Computing, Internet of People and Smart City Innovation
+  (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)}}. \bibinfo{pages}{1--4}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/UIC-ATC.2017.8397660}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Aziz}{Aziz}{2014}]%
+        {aziz2014formal}
+\bibfield{author}{\bibinfo{person}{Benjamin Aziz}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A formal model and analysis of the {MQ Telemetry
+  Transport protocol}}. In \bibinfo{booktitle}{\emph{Proceedings of the 9th
+  International Conference on Availability, Reliability and Security}}.
+  \bibinfo{pages}{59--68}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bang, Wang, Li, Gao, Kim, Dong, Chen, Fick,
+  Sun, Dreslinski, Mudge, Kim, Blaauw, and Sylvester}{Bang
+  et~al\mbox{.}}{2017}]%
+        {Bang2017}
+\bibfield{author}{\bibinfo{person}{S. Bang}, \bibinfo{person}{J. Wang},
+  \bibinfo{person}{Z. Li}, \bibinfo{person}{C. Gao}, \bibinfo{person}{Y. Kim},
+  \bibinfo{person}{Q. Dong}, \bibinfo{person}{Y.~P. Chen}, \bibinfo{person}{L.
+  Fick}, \bibinfo{person}{X. Sun}, \bibinfo{person}{R. Dreslinski},
+  \bibinfo{person}{T. Mudge}, \bibinfo{person}{H.~S. Kim}, \bibinfo{person}{D.
+  Blaauw}, {and} \bibinfo{person}{D. Sylvester}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{14.7 A 288 \#x00B5;W programmable deep-learning
+  processor with 270KB on-chip weight storage using non-uniform memory
+  hierarchy for mobile intelligence}. In \bibinfo{booktitle}{\emph{2017 IEEE
+  International Solid-State Circuits Conference (ISSCC)}}.
+  \bibinfo{pages}{250--251}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ISSCC.2017.7870355}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bonomi, Milito, Natarajan, and Zhu}{Bonomi
+  et~al\mbox{.}}{2014}]%
+        {bonomi2014fog}
+\bibfield{author}{\bibinfo{person}{Flavio Bonomi}, \bibinfo{person}{Rodolfo
+  Milito}, \bibinfo{person}{Preethi Natarajan}, {and} \bibinfo{person}{Jiang
+  Zhu}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Fog computing: A platform for internet of things
+  and analytics}.
+\newblock In \bibinfo{booktitle}{\emph{Big data and internet of things: A
+  roadmap for smart environments}}. \bibinfo{pages}{169--186}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cheng, Sun, and Tu}{Cheng
+  et~al\mbox{.}}{2018}]%
+        {DDNNRTCSA2018}
+\bibfield{author}{\bibinfo{person}{Mu-Hsuan Cheng}, \bibinfo{person}{QiHui
+  Sun}, {and} \bibinfo{person}{Chia-Heng Tu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{An adaptive computation framework of distributed
+  deep learning models for Internet-of-Things applications}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 24th IEEE International
+  Conference on Embedded and Real-Time Computing Systems and Applications (to
+  be appeared)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ciregan, Meier, and Schmidhuber}{Ciregan
+  et~al\mbox{.}}{2012}]%
+        {Ciregan2012}
+\bibfield{author}{\bibinfo{person}{Dan Ciregan}, \bibinfo{person}{Ueli Meier},
+  {and} \bibinfo{person}{J{\"u}rgen Schmidhuber}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Multi-column deep neural networks for image
+  classification}.
+\newblock  (\bibinfo{year}{2012}), \bibinfo{pages}{3642--3649}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Deguchi and Takeuchi}{Deguchi and
+  Takeuchi}{2018}]%
+        {Deguchi2018}
+\bibfield{author}{\bibinfo{person}{Y. Deguchi} {and} \bibinfo{person}{K.
+  Takeuchi}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{3D-NAND Flash Solid-State Drive (SSD) for Deep
+  Neural Network Weight Storage of IoT Edge Devices with 700x Data-Retention
+  Lifetime Extention}. In \bibinfo{booktitle}{\emph{2018 IEEE International
+  Memory Workshop (IMW)}}. \bibinfo{pages}{1--4}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/IMW.2018.8388776}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Federico}{Federico}{2014}]%
+        {Silla14}
+\bibfield{author}{\bibinfo{person}{Silla Federico}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{rCUDA: Virtualizing GPUs to reduce cost and
+  improve performance}}. In \bibinfo{booktitle}{\emph{Proceedings of the STAC
+  Summit}}. \bibinfo{pages}{1--43}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fekade, Maksymyuk, Kyryk, and Jo}{Fekade
+  et~al\mbox{.}}{2017}]%
+        {Fekade2017}
+\bibfield{author}{\bibinfo{person}{B. Fekade}, \bibinfo{person}{T. Maksymyuk},
+  \bibinfo{person}{M. Kyryk}, {and} \bibinfo{person}{M. Jo}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Probabilistic Recovery of Incomplete Sensed Data in
+  IoT}.
+\newblock \bibinfo{journal}{\emph{IEEE Internet of Things Journal}}
+  (\bibinfo{year}{2017}), \bibinfo{pages}{1--1}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/JIOT.2017.2730360}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Fernando, Loke, and Rahayu}{Fernando
+  et~al\mbox{.}}{2013}]%
+        {fernando2013mobile}
+\bibfield{author}{\bibinfo{person}{Niroshinie Fernando},
+  \bibinfo{person}{Seng~W Loke}, {and} \bibinfo{person}{Wenny Rahayu}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Mobile cloud computing: A survey}.
+\newblock \bibinfo{journal}{\emph{Future Generation Computer Systems,
+  Elsevier}} \bibinfo{volume}{29}, \bibinfo{number}{1} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{84--106}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hadidi, Cao, Woodward, Ryoo, and Kim}{Hadidi
+  et~al\mbox{.}}{2018}]%
+        {hadidi2018musical}
+\bibfield{author}{\bibinfo{person}{Ramyad Hadidi}, \bibinfo{person}{Jiashen
+  Cao}, \bibinfo{person}{Matthew Woodward}, \bibinfo{person}{Michael Ryoo},
+  {and} \bibinfo{person}{Hyesoon Kim}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Musical Chair: Efficient Real-Time Recognition
+  Using Collaborative IoT Devices}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1802.02138}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Han, Shen, Philipose, Agarwal, Wolman, and
+  Krishnamurthy}{Han et~al\mbox{.}}{2016}]%
+        {han2016mcdnn}
+\bibfield{author}{\bibinfo{person}{Seungyeop Han}, \bibinfo{person}{Haichen
+  Shen}, \bibinfo{person}{Matthai Philipose}, \bibinfo{person}{Sharad Agarwal},
+  \bibinfo{person}{Alec Wolman}, {and} \bibinfo{person}{Arvind Krishnamurthy}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Mcdnn: An execution framework for deep neural
+  networks on resource-constrained devices}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 14th Annual International
+  Conference on Mobile Systems, Applications, and Services}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hauswald, Manville, Zheng, Dreslinski,
+  Chakrabarti, and Mudge}{Hauswald et~al\mbox{.}}{2014}]%
+        {Hauswald2014}
+\bibfield{author}{\bibinfo{person}{J. Hauswald}, \bibinfo{person}{T. Manville},
+  \bibinfo{person}{Q. Zheng}, \bibinfo{person}{R. Dreslinski},
+  \bibinfo{person}{C. Chakrabarti}, {and} \bibinfo{person}{T. Mudge}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A hybrid approach to offloading mobile image
+  classification}. In \bibinfo{booktitle}{\emph{2014 IEEE International
+  Conference on Acoustics, Speech and Signal Processing (ICASSP)}}.
+  \bibinfo{pages}{8375--8379}.
+\newblock
+\showISSN{1520-6149}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICASSP.2014.6855235}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hong and Park}{Hong and Park}{2017}]%
+        {Hong2017}
+\bibfield{author}{\bibinfo{person}{S. Hong} {and} \bibinfo{person}{Y. Park}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A FPGA-based neural accelerator for small IoT
+  devices}. In \bibinfo{booktitle}{\emph{2017 International SoC Design
+  Conference (ISOCC)}}. \bibinfo{pages}{294--295}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ISOCC.2017.8368903}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hung, Tzeng, Wu, and Shieh}{Hung
+  et~al\mbox{.}}{2015}]%
+        {HungTWS15}
+\bibfield{author}{\bibinfo{person}{Shih{-}Hao Hung},
+  \bibinfo{person}{Tien{-}Tzong Tzeng}, \bibinfo{person}{Gyun{-}De Wu}, {and}
+  \bibinfo{person}{Jeng{-}Peng Shieh}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{{A code offloading scheme for big-data processing
+  in Android applications}}.
+\newblock \bibinfo{journal}{\emph{Software: Practice and Experience, {Wiley
+  Online Library}}} \bibinfo{volume}{45}, \bibinfo{number}{8}
+  (\bibinfo{year}{2015}), \bibinfo{pages}{1087--1101}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1002/spe.2265}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hung, Tzeng, Wu, Tsai, Lu, Shieh, Tu, and
+  Ho}{Hung et~al\mbox{.}}{2014}]%
+        {Hung14}
+\bibfield{author}{\bibinfo{person}{Shih{-}Hao Hung},
+  \bibinfo{person}{Tien{-}Tzong Tzeng}, \bibinfo{person}{Jyun{-}De Wu},
+  \bibinfo{person}{Min{-}Yu Tsai}, \bibinfo{person}{Yi{-}Chih Lu},
+  \bibinfo{person}{Jeng{-}Peng Shieh}, \bibinfo{person}{Chia{-}Heng Tu}, {and}
+  \bibinfo{person}{Wen{-}Jen Ho}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{MobileFBP}: Designing portable reconfigurable
+  applications for heterogeneous systems}.
+\newblock \bibinfo{journal}{\emph{Journal of Systems Architecture - Embedded
+  Systems Design, {Elsevier North-Holland}}} \bibinfo{volume}{60},
+  \bibinfo{number}{1} (\bibinfo{year}{2014}), \bibinfo{pages}{40--51}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.sysarc.2013.11.009}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Iandola, Han, Moskewicz, Ashraf, Dally, and
+  Keutzer}{Iandola et~al\mbox{.}}{2016}]%
+        {iandola2016squeezenet}
+\bibfield{author}{\bibinfo{person}{Forrest~N Iandola}, \bibinfo{person}{Song
+  Han}, \bibinfo{person}{Matthew~W Moskewicz}, \bibinfo{person}{Khalid Ashraf},
+  \bibinfo{person}{William~J Dally}, {and} \bibinfo{person}{Kurt Keutzer}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Squeezenet: Alexnet-level accuracy with 50x fewer
+  parameters and< 0.5 mb model size}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1602.07360}}
+  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kalhara, Jayasinghearachchd, Dias, Ratnayake,
+  Jayawardena, and Kuruwitaarachchi}{Kalhara et~al\mbox{.}}{2017}]%
+        {Kalhara2017}
+\bibfield{author}{\bibinfo{person}{P.~G. Kalhara}, \bibinfo{person}{V.~D.
+  Jayasinghearachchd}, \bibinfo{person}{A.~H. A.~T. Dias},
+  \bibinfo{person}{V.~C. Ratnayake}, \bibinfo{person}{C. Jayawardena}, {and}
+  \bibinfo{person}{N. Kuruwitaarachchi}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{TreeSpirit: Illegal logging detection and alerting
+  system using audio identification over an IoT network}. In
+  \bibinfo{booktitle}{\emph{2017 11th International Conference on Software,
+  Knowledge, Information Management and Applications (SKIMA)}}.
+  \bibinfo{pages}{1--7}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/SKIMA.2017.8294127}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kang, Hauswald, Gao, Rovinski, Mudge, Mars,
+  and Tang}{Kang et~al\mbox{.}}{2017}]%
+        {Kang2017}
+\bibfield{author}{\bibinfo{person}{Yiping Kang}, \bibinfo{person}{Johann
+  Hauswald}, \bibinfo{person}{Cao Gao}, \bibinfo{person}{Austin Rovinski},
+  \bibinfo{person}{Trevor Mudge}, \bibinfo{person}{Jason Mars}, {and}
+  \bibinfo{person}{Lingjia Tang}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Neurosurgeon: Collaborative Intelligence Between
+  the Cloud and Mobile Edge}.
+\newblock \bibinfo{journal}{\emph{SIGARCH Comput. Archit. News}}
+  \bibinfo{volume}{45}, \bibinfo{number}{1} (\bibinfo{date}{April}
+  \bibinfo{year}{2017}), \bibinfo{pages}{615–629}.
+\newblock
+\showISSN{0163-5964}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3093337.3037698}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kim, Park, Yoo, Choi, Yang, and Shin}{Kim
+  et~al\mbox{.}}{2015}]%
+        {kim2015compression}
+\bibfield{author}{\bibinfo{person}{Yong-Deok Kim}, \bibinfo{person}{Eunhyeok
+  Park}, \bibinfo{person}{Sungjoo Yoo}, \bibinfo{person}{Taelim Choi},
+  \bibinfo{person}{Lu Yang}, {and} \bibinfo{person}{Dongjun Shin}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Compression of deep convolutional neural networks
+  for fast and low power mobile applications}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1511.06530}}
+  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krizhevsky, Nair, and Hinton}{Krizhevsky
+  et~al\mbox{.}}{2014}]%
+        {krizhevsky2014cifar}
+\bibfield{author}{\bibinfo{person}{Alex Krizhevsky}, \bibinfo{person}{Vinod
+  Nair}, {and} \bibinfo{person}{Geoffrey Hinton}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{title}{The {CIFAR-10} dataset}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{http://www.cs.toronto.edu/kriz/cifar.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lei, Senior, Gruenstein, and Sorensen}{Lei
+  et~al\mbox{.}}{2013}]%
+        {lei2013accurate}
+\bibfield{author}{\bibinfo{person}{Xin Lei}, \bibinfo{person}{Andrew~W Senior},
+  \bibinfo{person}{Alexander Gruenstein}, {and} \bibinfo{person}{Jeffrey
+  Sorensen}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Accurate and compact large vocabulary speech
+  recognition on mobile devices.}. In \bibinfo{booktitle}{\emph{Interspeech}},
+  Vol.~\bibinfo{volume}{1}. Citeseer.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Markham and Jia}{Markham and Jia}{2017}]%
+        {Caffe217}
+\bibfield{author}{\bibinfo{person}{Aaron Markham} {and}
+  \bibinfo{person}{Yangqing Jia}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{Caffe2: Portable High-Performance Deep Learning
+  Framework from {Facebook}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://devblogs.nvidia.com/caffe2-deep-learning-framework-facebook/}
+\showURL{%
+Retrieved April 19, 2017 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{McDanel, Teerapittayanon, and Kung}{McDanel
+  et~al\mbox{.}}{2017}]%
+        {McDanel17}
+\bibfield{author}{\bibinfo{person}{Bradley McDanel}, \bibinfo{person}{Surat
+  Teerapittayanon}, {and} \bibinfo{person}{Hsiang-Tsung Kung}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Embedded binarized neural networks}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the International Conference on
+  Embedded Wireless Systems and Networks}}. \bibinfo{pages}{168--173}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mohammadi, Al-Fuqaha, Sorour, and
+  Guizani}{Mohammadi et~al\mbox{.}}{2018}]%
+        {Mohammadi2018}
+\bibfield{author}{\bibinfo{person}{M. Mohammadi}, \bibinfo{person}{A.
+  Al-Fuqaha}, \bibinfo{person}{S. Sorour}, {and} \bibinfo{person}{M. Guizani}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Deep Learning for IoT Big Data and Streaming
+  Analytics: A Survey}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Surveys Tutorials}}
+  (\bibinfo{year}{2018}), \bibinfo{pages}{1--1}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/COMST.2018.2844341}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Parvez}{Parvez}{2017}]%
+        {parvez2017embedded}
+\bibfield{author}{\bibinfo{person}{Bilal Parvez}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{Embedded Vision Machine Learning on Embedded Devices
+  for Image classification in Industrial Internet of things}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Quan, Wang, and Ren}{Quan
+  et~al\mbox{.}}{2018}]%
+        {quan2018novel}
+\bibfield{author}{\bibinfo{person}{Li Quan}, \bibinfo{person}{Zhiliang Wang},
+  {and} \bibinfo{person}{Fuji Ren}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{A Novel Two-Layered Reinforcement Learning for Task
+  Offloading with Tradeoff between Physical Machine Utilization Rate and
+  Delay}.
+\newblock \bibinfo{journal}{\emph{Future Internet}} \bibinfo{volume}{10},
+  \bibinfo{number}{7} (\bibinfo{year}{2018}), \bibinfo{pages}{60}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{RAO and YADAV}{RAO and YADAV}{[n. d.]}]%
+        {raonovel}
+\bibfield{author}{\bibinfo{person}{SANGEETA RAO} {and} \bibinfo{person}{SAURABH
+  YADAV}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{A NOVEL AND EFFICIENT TECHNIQUE OF COMMUNICATION IN
+  IOTS USING AUTOENCODERS}.
+\newblock  (\bibinfo{year}{[n. d.]}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{{Scalagent Distributed
+  Technologies}}{{Scalagent Distributed Technologies}}{2015}]%
+        {mqttbenchmark15}
+\bibfield{author}{\bibinfo{person}{{Scalagent Distributed Technologies}}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{title}{{Benchmark of MQTT servers}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{http://www.scalagent.com/IMG/pdf/Benchmark_MQTT_servers-v1-1.pdf}
+\showURL{%
+Retrieved January 2015 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Shi, Liu, Liu, and Chen}{Shi
+  et~al\mbox{.}}{2017}]%
+        {Shi2017}
+\bibfield{author}{\bibinfo{person}{Cong Shi}, \bibinfo{person}{Jian Liu},
+  \bibinfo{person}{Hongbo Liu}, {and} \bibinfo{person}{Yingying Chen}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Smart User Authentication Through Actuation of
+  Daily Activities Leveraging WiFi-enabled IoT}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 18th ACM International Symposium
+  on Mobile Ad Hoc Networking and Computing}} \emph{(\bibinfo{series}{Mobihoc
+  '17})}. \bibinfo{publisher}{ACM}, \bibinfo{address}{New York, NY, USA},
+  Article \bibinfo{articleno}{5}, \bibinfo{numpages}{10}~pages.
+\newblock
+\showISBNx{978-1-4503-4912-3}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3084041.3084061}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Tama and Rhee}{Tama and Rhee}{[n. d.]}]%
+        {tamaattack}
+\bibfield{author}{\bibinfo{person}{Bayu~Adhi Tama} {and}
+  \bibinfo{person}{Kyung-Hyune Rhee}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Attack Classification Analysis of IoT Network via
+  Deep Learning Approach}.
+\newblock  (\bibinfo{year}{[n. d.]}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Teerapittayanon, McDanel, and
+  Kung}{Teerapittayanon et~al\mbox{.}}{2017}]%
+        {Teerapittayanon17}
+\bibfield{author}{\bibinfo{person}{Surat Teerapittayanon},
+  \bibinfo{person}{Bradley McDanel}, {and} \bibinfo{person}{Hsiang-Tsung
+  Kung}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Distributed Deep Neural Networks Over the Cloud,
+  the Edge and End Devices}. In \bibinfo{booktitle}{\emph{Proceedings of the
+  37th {IEEE} International Conference on Distributed Computing Systems}}.
+  \bibinfo{pages}{328--339}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tokui}{Tokui}{2017}]%
+        {Chainer17}
+\bibfield{author}{\bibinfo{person}{Seiya Tokui}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{{Introduction to Chainer}: A flexible framework for
+  deep learning}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://chainer.org/}
+\showURL{%
+Retrieved July 18, 2017 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Tseng, Hung, and Tu}{Tseng
+  et~al\mbox{.}}{2015}]%
+        {Tseng15}
+\bibfield{author}{\bibinfo{person}{Tai{-}Lun Tseng},
+  \bibinfo{person}{Shih{-}Hao Hung}, {and} \bibinfo{person}{Chia{-}Heng Tu}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{{Migratom.js: A Javascript migration framework for
+  distributed web computing and mobile devices}}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 30th Annual {ACM} Symposium on
+  Applied Computing}}. \bibinfo{pages}{798--801}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tu, Hsu, Chen, Chen, and Hung}{Tu
+  et~al\mbox{.}}{2014}]%
+        {Tu14}
+\bibfield{author}{\bibinfo{person}{Chia{-}Heng Tu}, \bibinfo{person}{Hui{-}Hsin
+  Hsu}, \bibinfo{person}{Jen{-}Hao Chen}, \bibinfo{person}{Chun{-}Han Chen},
+  {and} \bibinfo{person}{Shih{-}Hao Hung}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{Performance and power profiling for emulated
+  Android Systems}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Design Automation of
+  Electronic Systems, {ACM}}} \bibinfo{volume}{19}, \bibinfo{number}{2}
+  (\bibinfo{year}{2014}), \bibinfo{pages}{10}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Li, and Li}{Wang et~al\mbox{.}}{2016}]%
+        {Wang2016}
+\bibfield{author}{\bibinfo{person}{Y. Wang}, \bibinfo{person}{Huawei Li}, {and}
+  \bibinfo{person}{Xiaowei Li}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Re-architecting the on-chip memory sub-system of
+  machine-learning accelerator for embedded devices}. In
+  \bibinfo{booktitle}{\emph{2016 IEEE/ACM International Conference on
+  Computer-Aided Design (ICCAD)}}. \bibinfo{pages}{1--6}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2966986.2967068}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Xiao, Wan, Lu, Zhang, and Wu}{Xiao
+  et~al\mbox{.}}{2018}]%
+        {xiao2018iot}
+\bibfield{author}{\bibinfo{person}{Liang Xiao}, \bibinfo{person}{Xiaoyue Wan},
+  \bibinfo{person}{Xiaozhen Lu}, \bibinfo{person}{Yanyong Zhang}, {and}
+  \bibinfo{person}{Di Wu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{IoT Security Techniques Based on Machine Learning}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1801.06275}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yang, Ou, and Chen}{Yang
+  et~al\mbox{.}}{2008}]%
+        {Kumar2010}
+\bibfield{author}{\bibinfo{person}{K. Yang}, \bibinfo{person}{S. Ou}, {and}
+  \bibinfo{person}{H.~H. Chen}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{On effective offloading services for
+  resource-constrained mobile devices running heavier mobile Internet
+  applications}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Magazine}}
+  \bibinfo{volume}{46}, \bibinfo{number}{1} (\bibinfo{date}{January}
+  \bibinfo{year}{2008}), \bibinfo{pages}{56--63}.
+\newblock
+\showISSN{0163-6804}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/MCOM.2008.4427231}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Ramachandran, Zhuge, He, Zuo, Cheng,
+  Rupnow, and Chen}{Zhang et~al\mbox{.}}{2017}]%
+        {LSTMFPGA2017}
+\bibfield{author}{\bibinfo{person}{Xiaofan Zhang}, \bibinfo{person}{Anand
+  Ramachandran}, \bibinfo{person}{Chuanhao Zhuge}, \bibinfo{person}{Di He},
+  \bibinfo{person}{Wei Zuo}, \bibinfo{person}{Zuofu Cheng},
+  \bibinfo{person}{Kyle Rupnow}, {and} \bibinfo{person}{Deming Chen}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Machine learning on FPGAs to face the IoT
+  revolution}. In \bibinfo{booktitle}{\emph{Proceedings of the 2017 IEEE/ACM
+  International Conference on Computer-Aided Design}}.
+  \bibinfo{pages}{819--826}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICCAD.2017.8203862}
+\showDOI{\tempurl}
+
+
+\end{thebibliography}

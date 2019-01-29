@@ -1,0 +1,3 @@
+DNN Network	Mode	end acc	server acc	overall acc	pass t	end ct	server ct	all t	entropy	threshold
+weak model	early exit	45.60%	47.60%	54.80%	0.271	25.456	0.028	25.759	0.803	0.4
+good model compress	early exit	44.26%	65.13%	72.74%	0.0002	0.587	0.055	0.687	0.782	0.4

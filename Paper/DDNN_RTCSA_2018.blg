@@ -1,0 +1,94 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: DDNN_RTCSA_2018.aux
+The style file: IEEEtran.bst
+Database file #1: bibliography.bib
+You're missing a field name---line 239 of file bibliography.bib
+ : 
+ : %  publisher={Springer}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 248 of file bibliography.bib
+ :  
+ :  % organization={IEEE}% (ARES 9th)
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 257 of file bibliography.bib
+ :   
+ :   %  volume={16},%  OSDI 12th
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 266 of file bibliography.bib
+ :   
+ :   %  month =   "Apr",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 276 of file bibliography.bib
+ :   
+ :   %  month =   "January",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 294 of file bibliography.bib
+ :   
+ :   %  timestamp = {Thu, 08 Jun 2017 09:07:31 +0200},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 305 of file bibliography.bib
+ : 
+ : %  crossref  = {DBLP:conf/sac/2015},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 339 of file bibliography.bib
+ : 
+ : %  timestamp = {Tue, 06 Jun 2017 22:22:59 +0200},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 359 of file bibliography.bib
+ : 
+ : %, Atlanta, GA, USA, June 5-8, 2017 {ICDCS} 2017
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 374 of file bibliography.bib
+ :   
+ :   %  month =   Jul,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 391 of file bibliography.bib
+ :   
+ :   %  url =   "http://www.rcuda.net/pub/rCUDA_STAC14.pdf",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 403 of file bibliography.bib
+ : 
+ : %  organization={IEEE}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 434 of file bibliography.bib
+ : 
+ : %  organization={IEEE}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 458 of file bibliography.bib
+ :   
+ :   %  volume={3},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 468 of file bibliography.bib
+ : 
+ : %  month =   "Mar",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 477 of file bibliography.bib
+ : 
+ : %  organization={IEEE}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 713 of file bibliography.bib
+ : 
+ : %  organization={IEEE}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There were 17 error messages)
